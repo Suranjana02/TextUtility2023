@@ -1,5 +1,5 @@
 {
-  "homepage": "https://github.com/Suranjana02/TextUtility2023.git/",
+  "homepage": "https://suranjana02.github.io/TextUtility2023",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
